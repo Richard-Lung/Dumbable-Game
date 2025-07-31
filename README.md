@@ -1,6 +1,6 @@
 # Dumbable-Game
 Unity game developed from scratch as an academic final assiignment in game development course.  
-Characters creaated from scratch - ragdoll & physics based drop implemented.  
+Characters created from scratch - ragdoll & physics based "drop dead" implemented.  
 FPS shooting style game, enemies hit activates ragdoll mode on.  
 Three scenes created: Two main levels and a tutorial level.  
   
